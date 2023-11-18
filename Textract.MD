@@ -24,7 +24,7 @@ Word: commands.
 
 The code above extracts text from a local jpg file. That file has been committed into this repo. It's named aws_cli_text_document.jpg.
 
-That's it! Feel free to email me with any questions. If you found this interesting, hit the subscribe button above. Got comments? Send me an email at fullstackdev@fullstackoasis.com. I post new content just about every week.
+That's it! Feel free to email me with any questions at fullstackdev@fullstackoasis.com.
 
 References:
 
